@@ -2,7 +2,7 @@ Este código PHP utiliza a biblioteca PHPMailer para enviar emails automáticos.
 
 # Autoria
 
-Este projeto foi desenvolvido por mim [Gabriela Arcasi] como parte de suas responsabilidades na [Fundação Logosófica - Filial Flamboyant].
+Este projeto foi desenvolvido por mim [Gabriela Arcasi] como parte de minhas responsabilidades na [Fundação Logosófica - Filial Flamboyant].
 
 # Segurança
 
