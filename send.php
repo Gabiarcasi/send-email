@@ -24,10 +24,8 @@
 
         $mail = new PHPMailer(true);
 
-
-        
         $email_sender          =  $variaveis['-----']; // Email do Remetente
-	      $password_sender       =  $variaveis['-----']; // Senha do email do Remetente
+	$password_sender       =  $variaveis['-----']; // Senha do email do Remetente
         $email_addressees      =  $variaveis['-----']; // Email(s) do(s) Destinatário(s)
         $email_title           =  $variaveis['-----']; // Titulo do Email
         $email_body            =  $variaveis['-----']; // Corpo do email, feito com html
